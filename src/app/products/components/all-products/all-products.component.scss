@@ -1,0 +1,24 @@
+.card-box{
+  border: 1px solid rgb(227, 225, 225);
+  padding: 15px;
+  img {
+    width: 80px;
+    height:  80px;
+    border-radius: 50%;
+  }
+
+}
+
+textarea {
+  max-width: 100%;
+  min-width: 100%;
+  max-height: 300px;
+  min-height: 300px;
+}
+
+.modal {
+  img {
+    width: 100%;
+    max-height: 350px;
+  }
+}
